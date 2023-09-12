@@ -1,0 +1,18 @@
+{
+	"name": "CC-Profile-Script",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/0xandee/CC-Profile-Script.git",
+	"author": "anvospace <voandy57@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"@types/node": "^20.6.0",
+		"dotenv": "^16.3.1",
+		"ethers": "^6.7.1",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.2.2"
+	},
+	"scripts": {
+		"start": "ts-node ccProfileInteraction.ts"
+	}
+}
