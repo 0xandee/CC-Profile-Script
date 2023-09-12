@@ -1,4 +1,4 @@
-# Blockchain Interaction Script
+# ProfileNFT Interaction Script
 
 This script interacts with a Binance Smart Chain (BSC) smart contract using ethers.js.
 
